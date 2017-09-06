@@ -1,0 +1,24 @@
+{
+  "name": "toolchain",
+  "description": "toolchain for build clients website",
+  "main": "index.js",
+  "authors": [
+    "Alessio"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-grid": "bootstrap-grid-scss#^1.0.1",
+    "font-awesome": "fontawesome#^4.7.0",
+    "linearicons": "^1.0.0"
+  },
+  "version": "1.1.0"
+}

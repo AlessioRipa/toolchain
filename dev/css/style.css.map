@@ -1,0 +1,1 @@
+{"version":3,"file":"style.css","sources":["style.scss"],"sourcesContent":["//commento\n/* commento */\nbody{\n  background-color: white;\n}"],"names":[],"mappings":"AACA,cAAc;AACd,AAAA,IAAI,CAAA;EACF,gBAAgB,EAAE,KAAK,GACxB"}
